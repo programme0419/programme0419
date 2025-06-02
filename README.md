@@ -27,13 +27,7 @@
     </a>
 </p>
 
-## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programme0419&repo=Open-WebUI)](https://github.com/firebolt77811/Open-WebUI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programme0419&repo=VoiceAgentPDF-Frontend)](https://github.com/firebolt77811/VoiceAgentPDF-Frontend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programme0419&repo=Milkdown-website)](https://github.com/firebolt77811/Milkdown-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programme0419&repo=VoiceAgentPDF-Backend)](https://github.com/firebolt77811/VoiceAgentPDF-Backend)
 
 ## 📜 License
 
